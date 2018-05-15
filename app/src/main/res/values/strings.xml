@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Realm-01</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="add_new_task">Agrega una nueva tarea</string>
+    <string name="insert_task">Ingresa tu nueva tarea</string>
+    <string name="add">Agregar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add_success">Tarea agregada exitosamente</string>
+    <string name="input_empty">El campo de texto está vacío</string>
+    <string name="title_dialog_delete">Eliminar tarea</string>
+    <string name="delete_dialog">¿Eliminar la tarea selecionada?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+</resources>
